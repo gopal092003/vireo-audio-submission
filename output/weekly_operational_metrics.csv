@@ -1,0 +1,2 @@
+week_start,tickets,completed_tickets,sla_breaches,sla_breach_credits_inr,transfers,transfer_cost_inr,refund_amount_inr,avg_first_response_minutes,avg_handle_time_minutes,avg_csat,csat_responses
+2024-12-30,14,14,0,0,9,2745,8058.0,62.57142857142857,1223.7142857142858,4.0,12

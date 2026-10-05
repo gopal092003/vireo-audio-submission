@@ -1,0 +1,25 @@
+ticket_id,created_at,channel,category,complaint_category,classification_confidence,customer_message,agent_notes,human_category,correct
+TK-240001,2025-01-01 09:48,email,Account & Login,App / Software,0.95,"hii
+cannot login to my account
+hello??","Contact re login issue. Checked OTP logs. xfer to Logistics. Number updated, rslvd.",,
+TK-240001,2025-01-01 09:48,email,Account & Login,App / Software,0.95,"hii
+cannot login to my account
+hello??","Contact re login issue. Checked OTP logs. xfer to Logistics. Number updated, rslvd.",,
+TK-240001,2025-01-01 09:48,email,Account & Login,App / Software,0.95,"hii
+cannot login to my account
+hello??","Contact re login issue. Checked OTP logs. xfer to Logistics. Number updated, rslvd.",,
+TK-240001,2025-01-01 09:48,email,Account & Login,App / Software,0.95,"hii
+cannot login to my account
+hello??","Contact re login issue. Checked OTP logs. xfer to Logistics. Number updated, rslvd.",,
+TK-240002,2025-01-01 13:24,chat,Audio Quality,Audio Quality,0.95,"hello
+buzzing sound from the speaker
+??",-,,
+TK-240003,2025-01-01 13:55,chat,Billing & Payments,Refund / Payment,0.95,"the page failed after I paid and now nothing shows in my account, please advise",sorted ~Diya,,
+TK-240004,2025-01-01 15:13,email,Delivery & Shipping,Delivery / Logistics,0.95,"Honestly regrettign this purchase.  the GaN charger purchased in December, order VR909673. paid on 20-12-2024, still waiting for something to show up. I already checked with neighbours. Escalate this to someone senior.",ticket raised for shipment not rcvd. conf address w/ cx. re-shipped from warehouse. case closed w/ cx consent. [closed],,
+TK-240005,2025-01-01 20:24,voice,Delivery & Shipping,Product Damage,0.95,"[IVR transcript] hi the parcel looked like it was kiked here from the warehouse, and the unit has a crack my pulse","damaged in transit | chk w/ crr for damage claim -> rfnd approved, rs 1250, 5-7 working days [closed]",,
+TK-240005,2025-01-01 20:24,voice,Delivery & Shipping,Product Damage,0.95,"[IVR transcript] hi the parcel looked like it was kiked here from the warehouse, and the unit has a crack my pulse","damaged in transit | chk w/ crr for damage claim -> rfnd approved, rs 1250, 5-7 working days [closed]",,
+TK-240005,2025-01-01 20:24,voice,Delivery & Shipping,Product Damage,0.95,"[IVR transcript] hi the parcel looked like it was kiked here from the warehouse, and the unit has a crack my pulse","damaged in transit | chk w/ crr for damage claim -> rfnd approved, rs 1250, 5-7 working days [closed]",,
+TK-240005,2025-01-01 20:24,voice,Delivery & Shipping,Product Damage,0.95,"[IVR transcript] hi the parcel looked like it was kiked here from the warehouse, and the unit has a crack my pulse","damaged in transit | chk w/ crr for damage claim -> rfnd approved, rs 1250, 5-7 working days [closed]",,
+TK-240006,2025-01-01 21:01,email,Returns & Refunds,Refund / Payment,0.95,"Got airlite earbuds from Amazon 3 weeks back. Refund not received yet. I emailed twice. Kindly look into it. Thanks & regards,",cx: refund delay | checked refund status on pg -> arn shared with cx,,
+TK-240007,2025-01-01 23:31,email,Charging & Battery,Battery / Charging,0.95,"battery drains very fast, barely lasts 2 hours.  please resolve asap",cx: poor battery backup | checked fw 1.4.5 -> escalated to warranty -SK,,
+TK-240008,2025-01-02 08:15,chat,Delivery & Shipping,Delivery / Logistics,0.95,"Hi team, I bought Arc neckband on 27-12-2024.  My order has not been delivered yet. I checked with neighbours. Nothing changed. Very poor quality. How do I get this fixed? Regards Manish Guptta",Cx reported ord not delivered. Raised ticket w/ crr partner. Re-shipped from warehouse.,,

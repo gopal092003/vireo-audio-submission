@@ -1,0 +1,9 @@
+{
+  "evaluation_method": "Existing ticket category is treated as a reference signal, not as perfect ground truth. A manually reviewed sample is used for validated accuracy.",
+  "reference_category_agreement": {
+    "n": 14,
+    "agreement": 0.0714,
+    "agreement_pct": 7.14,
+    "disagreement_count": 13
+  }
+}
